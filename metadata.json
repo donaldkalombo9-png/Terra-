@@ -1,0 +1,6 @@
+{
+  "name": "Food Recipes and Diet Helper",
+  "description": "Customized diet plans, food recipes, and therapeutic nutrition guides for Vegetarians, Gym Athletes, Morning Routines, and Health Recovery, integrated with an online pantry shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
